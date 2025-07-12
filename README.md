@@ -1,20 +1,27 @@
-<h1 align="left">Hi 👋, I'm Eduardo</h1>
-<h3 align="center">Junior Fullstack Developer passionate about building modern web and mobile apps</h3>
+### Hi 👋, I'm Eduardo
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eduagmatos&label=Profile%20views&color=0e75b6&style=flat" alt="eduagmatos" />
+  <img src="https://komarev.com/ghpvc/?username=Duxxzin&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
+- 🖱️ Junior Fullstack Developer passionate about building modern web and mobile apps
 - 🎓 Graduated in **Systems Analysis and Development**
 - 💻 Junior Fullstack Developer with **1 year and 6 months** of hands-on experience
 - 🌱 Currently learning **Go (Golang)** 🐹
 - 🗣️ Fluent in **English**
 - 📱 Working with modern **web** and **mobile** technologies
 - 🎯 Problem solver, fast learner, and team player
+
+### 🌴 When i'm not coding
+
+- 🎮 Passionate about FPS and story-driven games
+- 🎬 Big fan of anime, series, and movies
+- 💪 Gym-goer who enjoys staying active
+- 🃏 Magic: The Gathering player and card game enthusiast
 
 ---
 
