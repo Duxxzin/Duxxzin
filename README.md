@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eduardo</h1>
+<h1 align="left">Hi 👋, I'm Eduardo</h1>
 <h3 align="center">Junior Fullstack Developer passionate about building modern web and mobile apps</h3>
 
 <p align="center">
