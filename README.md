@@ -1,9 +1,5 @@
 ### Hi 👋, I'm Eduardo
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Duxxzin&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -63,6 +59,10 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-carvalho-matos/)
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Duxxzin&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 <div align="center">
   Made with ❤️ by Eduardo Carvalho Aguiar de Matos
